@@ -10,6 +10,6 @@ body {
 
 img {
   display: block;
-  max-width: 300px; /* adjust */
+  max-width: 800px; /* adjust */
   height: auto;
 }
